@@ -4,3 +4,5 @@
 
 A good read:
 - https://ipfs.io/ipfs/QmUy4jh5mGNZvLkjies1RWM4YuvJh5o2FYopNPVYwrRVGV
+
+![cat-transparent](https://github.com/kienngo98/kienngo98/assets/26052673/ad07c2bd-d54f-4cc7-bd19-62e0c9b2cb96)
