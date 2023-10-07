@@ -1,1 +1,1 @@
-contributing to @thirdweb-dev
+contributing to [@thirdweb-dev](https://github.com/thirdweb-dev)https://github.com/thirdweb-dev
