@@ -1,5 +1,6 @@
 contributing to  
-[@thirdweb-dev](https://github.com/thirdweb-dev)  
+[thirdweb SDKs](https://github.com/thirdweb-dev)  
+[thirdweb Templates](https://github.com/thirdweb-example)  
 [thirdweb.tools](https://thirdweb.tools)
 
 past  
