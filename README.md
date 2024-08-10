@@ -1,4 +1,5 @@
-![purple](https://github.com/user-attachments/assets/c399c1e9-1974-4e1a-a5d4-3446c6cdf6e8)
+![image](https://github.com/user-attachments/assets/1405c566-0385-4cef-85aa-b1c1b741bc11)
+
 
 contributing to  
 [thirdweb SDKs](https://github.com/thirdweb-dev)  
