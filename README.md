@@ -1,3 +1,6 @@
+Building:
+[clipfs](https://github.com/kien-ngo/clipfs)
+
 past:
 
 [thirdweb SDKs](https://github.com/thirdweb-dev)  
